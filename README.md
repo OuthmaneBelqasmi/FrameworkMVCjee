@@ -9,6 +9,5 @@ __The DI pattern design__ : is a mechanism that dynamically creates dependencies
 different objects by exploiting the principle of the inversion of control (IoC).
 <br>
 __The MVC__ : MVC design pattern is an abbreviation for "Model, View, Controller". It's an architecture and a
-design method for the development of software applications and more precisely the presentation part
-the WEB application, this method separates the data model, the user interface and the logic of the
+design method for the development of software applications, this method separates the data model, the user interface and the logic of the
 control.
