@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+<!--     <bean id="javaBean" class="org.amigo.reflection.JavaBean">
+       <property name="userName">
+           <value>A sweet fruit</value>
+       </property>
+       <property name="password">
+           <value>12345678</value>
+       </property>
+    </bean>
+ -->    
+    <bean id="dao" class="dao.ProduitDaoImpl"></bean>
+  
+
+    
+</beans>
